@@ -28,7 +28,8 @@ tagline: Icebreaking ships from around the world
 # this description might appear in search result lists, keep around 160 characters max
 description: "This collection is used to aid in identification and classification of icebreakers"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+# author: CollectionBuilder
+author: Chase Stoudt
 
 ##########
 # COLLECTION SETTINGS
